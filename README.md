@@ -2,7 +2,7 @@
 
 https://arimadevlab.github.io/ugoku-oekaki/
 
-English version: https://arimadevlab.github.io/ugoku-oekaki/en/
+English version (Paper Pop-Out): https://arimadevlab.github.io/ugoku-oekaki/en/
 
 つくった人：arima.dev.lab
 
@@ -33,7 +33,7 @@ English version: https://arimadevlab.github.io/ugoku-oekaki/en/
 
 ## English
 
-**Ugoku! Oekaki** ("Moving Drawings") – https://arimadevlab.github.io/ugoku-oekaki/en/
+**Paper Pop-Out** (Japanese title: うごく！おえかき / Ugoku! Oekaki) – https://arimadevlab.github.io/ugoku-oekaki/en/
 
 Snap a photo of a child's drawing on paper. The paper disappears and the drawing comes alive on screen: it hops, sways, spins and dances, follows lines you trace with your finger, makes friends, eats food you draw, and can even become a police car with lights and a siren. You can record a short video and save it.
 
