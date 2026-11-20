@@ -10,6 +10,8 @@
 <meta property="og:title" content="うごく！おえかき｜子どもの絵が、写真1枚で動き出す">
 <meta property="og:description" content="紙に描いた絵を撮ると、紙が消えて絵だけが動き出す無料のWebアプリ。インストール・登録不要。">
 <meta property="og:url" content="https://arimadevlab.github.io/ugoku-oekaki/">
+<link rel="alternate" hreflang="ja" href="https://arimadevlab.github.io/ugoku-oekaki/">
+<link rel="alternate" hreflang="en" href="https://arimadevlab.github.io/ugoku-oekaki/en/">
 <meta property="og:image" content="https://arimadevlab.github.io/ugoku-oekaki/ogp.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
@@ -26,6 +28,7 @@ html, body { margin: 0; overflow: hidden; overscroll-behavior: none; }
 #intro h1 { margin: 0; font: 400 clamp(34px, 9vw, 64px)/1.2 var(--f-pop); }
 #intro p { margin: 0; font-weight: 700; font-size: clamp(15px, 4vw, 20px); }
 #intro small { font-size: 12px; opacity: .75; max-width: 420px; line-height: 1.7; }
+#intro .langlink { font: 700 14px/1 var(--f-ui); color: var(--ink); background: #fff; border: 2px solid currentColor; border-radius: 999px; padding: 6px 14px; text-decoration: none; }
 #intro .btn3d { font-size: 24px; min-width: 200px; min-height: 72px; --c: var(--yel); }
 
 /* Layout: one screen. Big stage on top, a pull-up sheet at the bottom with five picture tabs (pick, move, world, voice, make). */
@@ -237,6 +240,7 @@ input[type=range]::-moz-range-thumb { width: 46px; height: 46px; border: 0; back
   <h1><span style="color:#ff6f8f">う</span><span style="color:#ff9a3d">ご</span><span style="color:#e8a800">く</span><span style="color:#2fb36b">！</span><span style="color:#3b9cf0">お</span><span style="color:#8a5cff">え</span><span style="color:#ff6f8f">か</span><span style="color:#ff9a3d">き</span></h1>
   <p>つくった人：arima.dev.lab</p>
   <button class="btn3d" id="introgo" type="button">はじめる</button>
+  <a class="langlink" href="en/" lang="en" hreflang="en">English</a>
   <small>おえかきの写真は、この端末の中だけで使われます。外には送られません。</small>
 </div>
 
